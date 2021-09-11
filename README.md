@@ -1,5 +1,4 @@
 # site
-https://type-to-text.netlify.app/
 
 ## Snapshot
 ![Snapshot](img/snapshot.jpg)
